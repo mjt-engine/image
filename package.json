@@ -1,6 +1,6 @@
 {
   "name": "@mjt-engine/animate",
-  "version": "2025.3.28-1810",
+  "version": "2025.3.28-1813",
   "sideEffects": false,
   "description": "animate module",
   "main": "./dist/index.js",
