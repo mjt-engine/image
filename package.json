@@ -1,6 +1,6 @@
 {
   "name": "@mjt-engine/input",
-  "version": "2025.3.28-1813",
+  "version": "2025.3.28-1816",
   "sideEffects": false,
   "description": "input module",
   "main": "./dist/index.js",
