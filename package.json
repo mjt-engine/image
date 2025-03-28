@@ -1,8 +1,8 @@
 {
-  "name": "@mjt-engine/animate",
+  "name": "@mjt-engine/input",
   "version": "2025.3.28-1813",
   "sideEffects": false,
-  "description": "animate module",
+  "description": "input module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
