@@ -1,0 +1,1 @@
+{"version":3,"file":"ImageLike.js","sourceRoot":"","sources":["../src/ImageLike.ts"],"names":[],"mappings":"","sourcesContent":["import { ByteLike } from \"@mjt-engine/byte\";\n\nexport type ImageLike =\n  | string\n  | HTMLImageElement\n  | HTMLCanvasElement\n  | HTMLVideoElement\n  | ByteLike;\n"]}
