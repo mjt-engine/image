@@ -1,8 +1,8 @@
 {
-  "name": "@mjt-engine/input",
+  "name": "@mjt-engine/image",
   "version": "2025.3.28-1816",
   "sideEffects": false,
-  "description": "input module",
+  "description": "image module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
