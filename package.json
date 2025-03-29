@@ -1,6 +1,6 @@
 {
   "name": "@mjt-engine/image",
-  "version": "2025.3.28-1816",
+  "version": "2025.3.28-1936",
   "sideEffects": false,
   "description": "image module",
   "main": "./dist/index.js",
